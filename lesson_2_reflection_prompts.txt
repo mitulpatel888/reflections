@@ -13,6 +13,8 @@ Staging area offers to have certain files in it for commitment.
 
 How can you use the staging area to make sure you have one commit per logical change?
 
+By using git commit, we can commit/logic.
+
 Stagin area helps to modify the numbers of file we want to commit.  
 
 What are some situations when branches would be helpful in keeping your history
