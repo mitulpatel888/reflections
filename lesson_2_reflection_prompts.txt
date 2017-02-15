@@ -28,5 +28,6 @@ What is the result of merging two branches together? Why do we represent it in t
 Git merge will merge the changes into single branch. 
 Diagrams is the easiet way to understand the trees. 
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git will not be able to merge automatically. it has to be done manually. 
