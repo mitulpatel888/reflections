@@ -3,3 +3,8 @@ When I need my work on different computer, I would create remote reposiroty rath
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Automatically pull changes might cause confliction between local and remote repository. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks --> To copy repository from One GitHib to another GitHub account
+clone --> To clone it to local repository 
+branches --> Create another branch on your current repository. 
