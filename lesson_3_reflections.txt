@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 Forks --> To copy repository from One GitHib to another GitHub account
 clone --> To clone it to local repository 
 branches --> Create another branch on your current repository. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It is helpful to resolve the conflict which happens when contributor modifies files that are located on GitHub. Now local files are not up-to-date. In this case, last known state helps to resolve the conflict
