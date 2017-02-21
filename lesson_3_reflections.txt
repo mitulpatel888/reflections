@@ -11,3 +11,6 @@ branches --> Create another branch on your current repository.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It is helpful to resolve the conflict which happens when contributor modifies files that are located on GitHub. Now local files are not up-to-date. In this case, last known state helps to resolve the conflict
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would be really difficult to collabrate without Git or GitHub. It would be harder to work on single project by multiple team members which affects the productivity. 
